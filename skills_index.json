@@ -1,0 +1,46 @@
+{
+  "skills_dir": "/Users/stometa/.codex/skills",
+  "count": 4,
+  "skills": [
+    {
+      "name": "skill-creator",
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations.",
+      "skill_dir": "/Users/stometa/.codex/skills/.system/skill-creator",
+      "skill_md": "/Users/stometa/.codex/skills/.system/skill-creator/SKILL.md",
+      "scope_hint": ".system",
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false
+    },
+    {
+      "name": "skill-installer",
+      "description": "Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).",
+      "skill_dir": "/Users/stometa/.codex/skills/.system/skill-installer",
+      "skill_md": "/Users/stometa/.codex/skills/.system/skill-installer/SKILL.md",
+      "scope_hint": ".system",
+      "has_scripts": true,
+      "has_references": false,
+      "has_assets": false
+    },
+    {
+      "name": "wide-research",
+      "description": "Orchestrate Wide Research (large-scale parallel research) in Codex CLI by splitting a big task into many independent subtasks, generating child prompts, running them concurrently via `codex exec`, caching raw materials, aggregating results with scripts, and polishing a final report with citations. Use when the user asks for “Wide Research/大规模调研/并行调研”, needs to process many URLs/items, or wants a repeatable research→aggregate→report pipeline that avoids context-window truncation.",
+      "skill_dir": "/Users/stometa/.codex/skills/wide-research",
+      "skill_md": "/Users/stometa/.codex/skills/wide-research/SKILL.md",
+      "scope_hint": "custom",
+      "has_scripts": true,
+      "has_references": true,
+      "has_assets": false
+    },
+    {
+      "name": "worktree",
+      "description": "Git worktree management for isolated parallel development. Use when user mentions \"worktree\", \"parallel development\", \"isolate branch\", \"parallel branches\", or when detecting multi-module changes, multi-repo work, risky/experimental refactors, long-running features, or context switching that benefits from separate working trees.",
+      "skill_dir": "/Users/stometa/.codex/skills/worktree",
+      "skill_md": "/Users/stometa/.codex/skills/worktree/SKILL.md",
+      "scope_hint": "custom",
+      "has_scripts": false,
+      "has_references": false,
+      "has_assets": false
+    }
+  ]
+}
