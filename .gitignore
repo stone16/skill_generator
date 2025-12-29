@@ -1,3 +1,15 @@
+## Local research runs / batch artifacts
 runs/
-docs/
-datasets/
+
+## External benchmark repos (local clones)
+reference/*
+!reference/README.md
+
+## SkillOps generated artifacts (do not commit)
+.skillops/
+skills_index.json
+trigger_eval_results.json
+dist/
+*.skill
+__pycache__/
+*.pyc
