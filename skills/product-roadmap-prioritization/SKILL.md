@@ -1,6 +1,6 @@
 ---
 name: product-roadmap-prioritization
-description: Prioritize product initiatives and build roadmaps (RICE/ICE/WSJF, sequencing, milestones, trade-offs) based on goals, impact, effort, and dependencies. Use when the user needs a prioritized plan, vision framing, or monetization options. Do not use for writing PRDs or designing experiments.
+description: Prioritize initiatives and plan roadmaps, milestones, vision, or monetization using goals, impact, effort, and dependencies.
 ---
 
 Create transparent, defensible prioritization and sequencing for product work.

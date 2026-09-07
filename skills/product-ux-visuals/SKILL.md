@@ -1,6 +1,6 @@
 ---
 name: product-ux-visuals
-description: Generate UX artifacts like user journey maps, wireframes, and product comparison visuals to communicate flows and design concepts. Use when the user needs visual UX diagrams or wireframe-style outputs. Do not use for production UI implementation or frontend code.
+description: Generate UX artifacts, user journey maps, wireframe-style flows, and product comparison visuals; excludes production UI implementation.
 ---
 
 Create clear, structured UX visuals that communicate user flows and product concepts.

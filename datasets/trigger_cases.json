@@ -369,6 +369,22 @@
       "group": "NEG_unrelated",
       "prompt": "Create a detailed competitive analysis with sources and screenshots.",
       "expected": []
+    },
+    {
+      "id": "product_requirements_B_implicit_boundary_02",
+      "group": "B_implicit",
+      "prompt": "Draft a PRD defining referral eligibility, user stories, and testable acceptance criteria before launch messaging is written.",
+      "expected": [
+        "product-requirements"
+      ]
+    },
+    {
+      "id": "product_content_communication_B_implicit_boundary_02",
+      "group": "B_implicit",
+      "prompt": "Turn the approved referral requirements into a customer launch announcement and support FAQ without changing the feature scope.",
+      "expected": [
+        "product-content-communication"
+      ]
     }
   ]
 }

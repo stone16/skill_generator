@@ -1,9 +1,11 @@
 ---
 name: product-content-communication
-description: Create product communication assets (PRDs, release notes, changelogs, FAQs, value propositions, pitch deck outlines) in clear, stakeholder-ready language. Use when the user needs product docs or launch communications. Do not use for competitive research or experiment design.
+description: Draft launch communications, release notes, FAQs, value propositions, and pitch outlines from agreed product scope; requirements belong to product-requirements.
 ---
 
-Produce concise, audience-appropriate product documentation and launch messaging.
+Produce audience-appropriate product communications from agreed requirements.
+Route PRDs, user stories, acceptance criteria, and scope decisions to
+[product-requirements](../product-requirements/SKILL.md).
 
 ## Workflow
 

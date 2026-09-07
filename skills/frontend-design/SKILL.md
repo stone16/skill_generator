@@ -1,6 +1,6 @@
 ---
 name: frontend-design
-description: Create distinctive, production-grade frontend UI with high design quality (web pages, landing pages, dashboards, marketing artifacts, app shells, and reusable components). Use when the user asks to design, redesign, style, or beautify any web UI (HTML/CSS, React/Vue, Tailwind, design systems) and needs polished, accessible, responsive code that avoids generic “AI slop” aesthetics. Do not use for backend-only tasks or non-UI requests.
+description: Design, redesign, style, or beautify responsive web pages and components in HTML/CSS, React, or Tailwind with accessible visual quality.
 ---
 
 Create distinctive, production-grade frontend interfaces that feel intentionally designed (not generic). Implement real working code with meticulous attention to typography, color, layout, motion, and micro-details.
