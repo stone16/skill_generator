@@ -1,9 +1,11 @@
 ---
 name: product-content-communication
-description: Draft product docs and launch messaging, including PRDs, release notes, FAQs, value propositions, and pitch outlines.
+description: Draft launch communications, release notes, FAQs, value propositions, and pitch outlines from agreed product scope; requirements belong to product-requirements.
 ---
 
-Produce concise, audience-appropriate product documentation and launch messaging.
+Produce audience-appropriate product communications from agreed requirements.
+Route PRDs, user stories, acceptance criteria, and scope decisions to
+[product-requirements](../product-requirements/SKILL.md).
 
 ## Workflow
 
