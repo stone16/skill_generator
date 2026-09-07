@@ -1,6 +1,6 @@
 ---
 name: product-requirements
-description: Draft product requirement artifacts (PRD, user stories, acceptance criteria, scope, risks, open questions) from a defined problem or feature idea. Use when the user needs a requirements/spec document or clear success criteria. Do not use for roadmap prioritization, experiments/metrics, or market research.
+description: Draft PRDs, user stories, acceptance criteria, scope, and risks for a defined feature; excludes roadmaps and market research.
 ---
 
 Create crisp, testable product requirements that align stakeholders on scope, goals, and success criteria.

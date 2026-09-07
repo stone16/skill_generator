@@ -1,6 +1,6 @@
 ---
 name: product-content-communication
-description: Create product communication assets (PRDs, release notes, changelogs, FAQs, value propositions, pitch deck outlines) in clear, stakeholder-ready language. Use when the user needs product docs or launch communications. Do not use for competitive research or experiment design.
+description: Draft product docs and launch messaging, including PRDs, release notes, FAQs, value propositions, and pitch outlines.
 ---
 
 Produce concise, audience-appropriate product documentation and launch messaging.

@@ -1,6 +1,6 @@
 ---
 name: product-competitive-research
-description: Research and compare competitors, market trends, tech stack options, pricing strategies, and regulatory considerations using public sources, with citations and synthesis. Use when the user asks for competitive or market analysis. Do not use for PRD drafting or roadmap prioritization.
+description: Research and compare competitors, market trends, tech stack options, pricing strategies, and regulatory considerations with citations; excludes PRDs and roadmaps.
 ---
 
 Deliver structured competitive and market research with clear takeaways.

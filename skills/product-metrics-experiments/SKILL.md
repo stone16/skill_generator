@@ -1,6 +1,6 @@
 ---
 name: product-metrics-experiments
-description: Define success metrics, KPI trees, and experiment plans (hypotheses, variants, metrics, sample size, analysis) for a feature or growth initiative. Use when the user needs measurement or A/B test design. Do not use for roadmap prioritization or PRD drafting.
+description: Define product success metrics, KPIs, and A/B test plans; excludes roadmap prioritization and PRD drafting.
 ---
 
 Turn product goals into measurable metrics and rigorous experiment plans.

@@ -1,6 +1,6 @@
 ---
 name: product-insights-analysis
-description: Analyze product feedback, usage data, experiments, and adoption risks to surface themes, trends, and recommendations. Use when the user needs insight synthesis from data or feedback. Do not use for experiment design or roadmap prioritization.
+description: Analyze product feedback, usage, and experiment results for insights; excludes experiment design and roadmap prioritization.
 ---
 
 Synthesize product insights from qualitative and quantitative inputs.
